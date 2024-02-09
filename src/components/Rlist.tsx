@@ -34,11 +34,11 @@ const showTable = (headers: string[], data: AutoCar[]) => {
       </thead>
       <tbody>
           {
-            data.map((row: object, rNdx: number) => {
+            data.map((row, rNdx: number) => {
               return <tr key={rNdx}>
                 {
-                  row.map((fld: any, fNdx: number) => {
-                    return <td key={fNdx}>{fld}</td>
+                  Object.entries(row).map(([k,v], fNdx: number) => {
+                    return <td key={fNdx}>{v}</td>
                   })
                 }
 
@@ -59,7 +59,7 @@ function Rlist() {
     <>
       <div>Rlist</div>
 
-      { showTable( Object.keys(carListStrong[0]), []) }
+      { showTable( Object.keys(carListStrong[0]), carListStrong) }
 
       </>
   )
