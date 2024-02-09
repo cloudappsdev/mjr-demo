@@ -17,6 +17,14 @@ import carList from './CarData.json';
 
 const carListStrong: AutoCar[] = carList;
 
+const array = [1, 2, 3, 4];
+
+// const shuffledArray = array.sort((a, b) => 0.5 - Math.random());
+
+const sortIt = (arr: number[]):number[] => {
+  return arr.sort((a, b) => 0.5 - Math.random());
+}
+
 
 const showTable = (headers: string[], data: AutoCar[]) => {
 
@@ -54,12 +62,24 @@ const showTable = (headers: string[], data: AutoCar[]) => {
 function Rlist() {
 
     // console.log('CarList', carList)
-    console.log('carListStrong', carListStrong);
+  console.log('carListStrong', carListStrong);
+
+  let rsCars: AutoCar[] = [];
+
+  const randNums = sortIt(array);
+
+  randNums.forEach(x => {
+    rsCars.push(carListStrong.filter(car => (car.id==x))[0]);
+    
+  });
+
+  console.log('rsCars', rsCars);
+
   return (
     <>
       <div>Rlist</div>
 
-      { showTable( Object.keys(carListStrong[0]), carListStrong) }
+      { showTable( Object.keys(carListStrong[0]), rsCars) }
 
       </>
   )
