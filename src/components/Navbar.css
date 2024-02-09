@@ -1,0 +1,21 @@
+.nav-wrap {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.anchor-wrapper {
+    width: 100%;
+}
+
+.nav-anchor {
+    height: 62px;
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-anchor:hover {
+    border: 2px solid #42A5F5;
+}

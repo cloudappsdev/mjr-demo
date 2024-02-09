@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "make": "Chevy",
+        "model": "Belair", 
+        "year": "1957",
+        "color": "yellow"
+    },
+    {
+        "id": 2,
+        "make": "Infinity",
+        "model": "Pressa",
+        "year": "2012",
+        "color": "grey"
+    }, 
+    {
+        "id": 3,
+        "make": "Ford",
+        "model": "Pickup",
+        "year": "2014",
+        "color": "blue"
+    }, 
+    {
+        "id": 4,
+        "make": "Cadilac",
+        "model": "Escapade",
+        "year": "2018",
+        "color": "cranberry"
+    }            
+]
