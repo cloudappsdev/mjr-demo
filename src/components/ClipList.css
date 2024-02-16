@@ -1,18 +1,32 @@
 
+.link-wrapper {
+    border: 3px solid green;
+}
+
+.linkd a {
+    text-decoration: underline;
+}
+
+.linkd a:hover {
+    color: #FFCC80;
+}
+.link-span {
+    color: #fff;
+}
 
 .big-ul {
     font-family: inherit;
+    list-style-type: none;
 }
 
 .spacer {
     min-height: 500px;
-    margin-bottom: 65px;
+    margin-bottom: 42px;
 }
 
 .span-wrap {
     font-family: inherit;
     color: #fcc !important;
-    border: 3px solid green;
 }
 
 .span-wrap > .song-link {

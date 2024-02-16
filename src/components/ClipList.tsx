@@ -47,16 +47,15 @@ const ClipList = (props: {r: boolean, clipInfo: ClipData[]}) => {
     <>
         <div>ClipList</div>
         <div>~~~~~~~~~~~~~~</div>
-        <div>
+        <div className="link-wrapper">
 
             {
                 clipInfoFinal.map((xyz: ClipData, ndx: number) => {
-                    // console.log('set up link for ', {xyz.song});
                     return (
-                        <li key={ndx}>
+                        <div key={ndx} className="linkd">
                             
-                            <a href={'#' + xyz.label}><span>{xyz.song}</span></a><br/>
-                        </li>
+                            <a href={'#' + xyz.label}><span className="link-span">{xyz.song}</span></a><br/>
+                        </div>
                     )
 
                 })
@@ -70,7 +69,6 @@ const ClipList = (props: {r: boolean, clipInfo: ClipData[]}) => {
                 clipInfoFinal.map((xyz: ClipData, ndx: number) => {
                     return (
                         <li key={ndx} className="spacer">
-                            @ts-ignore
                             <div id={xyz.label} className="span-wrap"><span className="song-link">{xyz.song}</span></div>
                             <div dangerouslySetInnerHTML={{__html: xyz.ytifm}} />
                         </li>
