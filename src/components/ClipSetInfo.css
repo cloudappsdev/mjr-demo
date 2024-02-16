@@ -1,0 +1,10 @@
+
+.even-full {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hdr-choice {
+    display: inline-block;
+    width: 100%;
+}

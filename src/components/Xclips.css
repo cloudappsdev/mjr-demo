@@ -1,0 +1,13 @@
+
+.react-tabs__tab:focus:after {
+    background-color: #29B6F6;
+}
+
+.cmg {
+    font-family: inherit;
+    border: 1px solid #F4D03F;
+}
+
+.cmg .react-tabs__tab:focus:after {
+    background-color: #E8DAEF;
+}

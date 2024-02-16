@@ -1,0 +1,4 @@
+
+.react-tabs__tab:focus:after {
+    background-color: #29B6F6;
+}

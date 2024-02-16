@@ -1,0 +1,21 @@
+
+
+.big-ul {
+    font-family: inherit;
+}
+
+.spacer {
+    min-height: 500px;
+    margin-bottom: 65px;
+}
+
+.span-wrap {
+    font-family: inherit;
+    color: #fcc !important;
+    border: 3px solid green;
+}
+
+.span-wrap > .song-link {
+    color: #fff !important;
+    font-weight: 700;
+}
