@@ -12,6 +12,7 @@ function Navbar() {
           <div className='anchor-wrapper'><Link to="/home" className="nav-anchor"><div>Home / About</div></Link></div>
           <div className='anchor-wrapper'><Link to="/rlist" className="nav-anchor">Rlist</Link></div>
           <div className='anchor-wrapper'><Link to="/word" className="nav-anchor">WordCloud</Link></div>
+          <div className='anchor-wrapper'><Link to="/photos" className="nav-anchor">PHotos</Link></div>
         </nav>
     );
 }
