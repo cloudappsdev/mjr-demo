@@ -8,3 +8,10 @@
     display: inline-block;
     width: 100%;
 }
+
+.ways-button {
+    background-color: #27AE60;
+    color: #fff;
+    font-weight: 900;
+    min-width: 400px;
+}

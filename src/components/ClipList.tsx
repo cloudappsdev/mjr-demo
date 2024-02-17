@@ -41,7 +41,7 @@ const ClipList = (props: {r: boolean, clipInfo: ClipData[]}) => {
     console.log('r: ', r);
     console.log('clipInfo: ', clipInfo);
 
-    const clipInfoFinal: ClipData[] = (r==true) ? clipInfo : getRandomlyOrderedPlayList(clipInfo);
+    const clipInfoFinal: ClipData[] = (r==false) ? clipInfo : getRandomlyOrderedPlayList(clipInfo);
     
   return (
     <>

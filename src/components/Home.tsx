@@ -58,7 +58,7 @@ function Home() {
             </TabList>
 
             <TabPanel>
-              <ClipSetInfo r={false} clipInfo={goSetX} />
+              <ClipSetInfo clipInfo={goSetX} />
               
             </TabPanel>
             <TabPanel>
