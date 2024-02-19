@@ -1,53 +1,44 @@
 [
-    {
-        "index": 1,
-        "label": "Mess-Around",
-        "song": "Mess Around",
-        "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/VaVZY7XA-84\" title=\"Mess Around\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-
-    },
-    {
-        "index": 2,
-        "label": "Last-Dance",
-        "song": "Last Dance with Mary Jane",
-        "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/xWl_f33xexg\" title=\"Last Dance with Mary Jane\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-
-    }, 
-    {
-        "index": 3,
-        "label": "Tell-It-Like-It-Is",
-        "song": "Tell It Like It Is",
-        "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/DIaFKXuhmPI\" title=\"Tell It Like It Is\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-
-    }, 
-    {
-        "index": 4,
-        "label": "Rock-Me-Baby",
-        "song": "Rock Me Baby",
-        "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/NP83V-tBZjw\" title=\"Rock Me Baby\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-
-    }, 
-    {
-        "index": 5,
-        "label": "Car-Wash-Blues",
-        "song": "Car Wash Blues",
-        "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/8dC49sBWT5I\" title=\"Car Wash Blues\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-
-    }, 
-    {
-        "index": 6,
-        "label": "Yellow-Moon",
-        "song": "Yellow Moon",
-        "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/_d5NRBvWTt0\" title=\"Yellow Moon\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-
-    }, 
-    {
-        "index": 7,
-        "label": "Alabama-Getaway",
-        "song": "Alabama Getaway",
-        "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/_1toeHaLgTA\" title=\"Alabama Getaway\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
-
-    }                             
+  {
+    "index": 1,
+    "label": "Mess-Around",
+    "song": "Mess Around",
+    "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/VaVZY7XA-84\" title=\"Mess Around\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  },
+  {
+    "index": 2,
+    "label": "Last-Dance",
+    "song": "Last Dance with Mary Jane",
+    "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/xWl_f33xexg\" title=\"Last Dance with Mary Jane\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  },
+  {
+    "index": 3,
+    "label": "Tell-It-Like-It-Is",
+    "song": "Tell It Like It Is",
+    "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/DIaFKXuhmPI\" title=\"Tell It Like It Is\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  },
+  {
+    "index": 4,
+    "label": "Rock-Me-Baby",
+    "song": "Rock Me Baby",
+    "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/NP83V-tBZjw\" title=\"Rock Me Baby\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  },
+  {
+    "index": 5,
+    "label": "Car-Wash-Blues",
+    "song": "Car Wash Blues",
+    "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/8dC49sBWT5I\" title=\"Car Wash Blues\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  },
+  {
+    "index": 6,
+    "label": "Yellow-Moon",
+    "song": "Yellow Moon",
+    "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/_d5NRBvWTt0\" title=\"Yellow Moon\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  },
+  {
+    "index": 7,
+    "label": "Alabama-Getaway",
+    "song": "Alabama Getaway",
+    "ytifm": "<iframe width=\"1061\" height=\"597\" src=\"https://www.youtube.com/embed/_1toeHaLgTA\" title=\"Alabama Getaway\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+  }
 ]
-
-
